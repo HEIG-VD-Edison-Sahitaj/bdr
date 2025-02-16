@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5666/moneyflow
+    username: moneyflow
+    password: XgdL%dwmL7qec4JPY9P7yfZJ7Jc&!RQR
