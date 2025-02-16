@@ -1,6 +1,0 @@
-[submodule "project-MoneyFlow/backend/backend"]
-	path = project-MoneyFlow/backend/backend
-	url = git@github.com:HEIG-VD-Edison-Sahitaj/bdr.git
-[submodule "project-MoneyFlow/backend/frontend"]
-	path = project-MoneyFlow/backend/frontend
-	url = git@github.com:HEIG-VD-Edison-Sahitaj/bdr.git
